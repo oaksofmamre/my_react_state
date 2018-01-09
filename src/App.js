@@ -26,6 +26,8 @@ class FlashMessageClass extends React.Component {
 	}
 }
 
+//////////////////////////////////////////////////////////////////
+
 // Dynamic stop and go component with initial state set
 class StopAndGo extends React.Component {
 	// Add a constructor method to initialize state
